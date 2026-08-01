@@ -213,6 +213,7 @@ Q5. 예방 운동 관련
 안전장치: 원문의 정보가 부족하거나 지시사항이 명확하지 않으면 임의로 생성하지 말고 사용자에게 먼저 질문한다. 모르는 내용이나 해석이 불가능한 문맥은 모른다고 명확히 밝힌다.
 숫자·사실 규칙: 원문에 명시되지 않은 숫자, 날짜, 이름, 고유명사 등을 절대 지어내지 않는다(창작 금지). 원문 내용만으로 사실 관계가 애매한 경우 임의로 추론하지 말고 '확인 필요'라고 명시한다.
 our body is equipped with systems designed to keep you safe from harm. In particular, your nervous system has an alarm system to protect you from threats. If you sense the building burning, your alarm sounds, telling you to get out. Likewise, if you burnt your hand on the stove, you would pull away. Short-lived pain from a possible injury is acute pain, but when pain becomes chronic — persisting for longer than three to six months — it behaves differently. With chronic pain, as with trauma and anxiety, there is a faulty alarm system that may go off when a metaphorical candle is lit. This can happen when you gently bump your arthritic knee or you feel the early signs of a headache and your mind envisions how it might ruin your day. With time, we can be sensitized to pain, so that lesser stimulation hurts more
+
 AI
 안녕하세요! 영어 지문 요약과 문제를 요청하신 형식에 맞춰 정리해 드릴게요. 😊
 
@@ -224,6 +225,7 @@ AI
 만성 통증은 트라우마나 불안처럼 **잘못된 경보 시스템(faulty alarm system)**을 가지고 있어, 사소한 자극(비유적으로 "촛불이 켜질 때")에도 경보가 울릴 수 있습니다.
 관절염이 있는 무릎을 살짝 부딪치거나 두통의 초기 신호를 느낄 때, 마음이 하루를 망칠 것이라 상상하면서 이런 일이 일어납니다.
 시간이 지나면서 우리는 통증에 민감해질(sensitized) 수 있어, **더 적은 자극(lesser stimulation)**에도 더 큰 통증을 느끼게 됩니다.
+
 2. 이해도 확인 문제
 문제 1. 윗글의 요지로 가장 적절한 것은?
 
@@ -257,8 +259,10 @@ AI
 ①, ②, ③, ⑤는 모두 지문 내용과 일치합니다.
 정말 잘 골라오신 지문이에요! 👍 이 글은 급성 통증 vs 만성 통증의 차이를 이해하는 것이 핵심입니다. 혹시 특정 유형(빈칸 추론, 순서 배열 등)의 문제를 더 원하시면 말씀해 주세요!
 
-조건변경 ->나
-지문의 요약이 번역에 불과 한것 같은데, 지문의 요지 중심으로 요약해서 지문의 핵심 내용이 잘 드러나게 해줘
+**조건변경** 
+나
+**지문의 요약이 번역에 불과 한것 같은데, 지문의 요지 중심으로 요약해서 지문의 핵심 내용이 잘 드러나게 해줘**
+
 AI
 좋은 지적이에요! 👍 번역식 나열이 아니라 요지 중심으로 압축해서 다시 요약해 드릴게요.
 
@@ -355,7 +359,8 @@ AI
 
 만성 통증 지문은 '경보 시스템'이라는 **비유(metaphor)**가 글 전체를 관통한다. 이 비유를 놓치지 않으면 요지 문제(①번 유형)를 쉽게 잡을 수 있다. 또한 일치·불일치 문제에서는 핵심어를 반대로 바꾼 선지(sensitized ↔ less sensitive)와 극단적 단정어(always)를 우선 의심하는 습관을 들이면 정답률이 올라간다.
 
-조건변경 ->나
+**조건변경**
+나
 **말투가 너무 구어체적이야. 교재를 읽는 것 처럼 느낄 수 있게 문어체로 해줘**
 
 AI
@@ -411,6 +416,7 @@ AI
 #### 새로운 정보 제시
 나
 #### 대상은 내신 2등급 고등 학교 2학년생들이야. 수준에 맞는 어휘로 선지를 다시 작성해줘
+
 AI
 고2 내신 2등급 수준에 맞추어 선지 어휘를 조정하여 최종본을 작성한다. 어려운 단어(overreacts, sensitized 등)를 일상 표현과 기본 학술어로 풀어 쓴다.
 
@@ -463,6 +469,7 @@ AI
 
 나
 #### 지금 선지문장이 내신 2등급 정도의 수준이라 생각해? 내가 보기에 단어만 바꿨을뿐. 
+
 AI
 지적이 정확하다. 단어만 바꾸었을 뿐, 문장 구조 자체는 여전히 단순하다. 내신 2등급 학생이라면 이미 이 정도 문장은 어렵지 않게 읽어낸다. 실제 내신·모의고사 선지는 다음과 같은 특징을 가진다.
 
